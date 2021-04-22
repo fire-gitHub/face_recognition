@@ -8,6 +8,7 @@ public class FaceRecognitionApplication {
 
     public static void main(String[] args) {
         System.out.println("args = " + args);
+        //tt
         System.out.println("FaceRecognitionApplication.main");
         SpringApplication.run(FaceRecognitionApplication.class, args);
     }
